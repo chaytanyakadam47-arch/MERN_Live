@@ -1,5 +1,5 @@
-I Am Learning To Handling Git Using Command
-
+I Am Learning To Handling Git Using Command line
+// this Changes Are Perform on remote git manully
 
 
   
