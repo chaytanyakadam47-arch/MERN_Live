@@ -1,15 +1,1 @@
-I Am Learning To Handling Git Using Command line
-// this Changes Are Perform on remote git manully
-
-
-  
-
-There Are Three Phaseas Of Git 
-1. create A copy of the remote Repository
-2. Make Changes In The Local Repository
-3. Push The Changes To The Remote Repository
-
-1. git clone https://github.com/Chaitanya-012/Chaitanya.git
-2. git add .
-3. git commit -m "First Commit"
-4. git push origin master
+this commit on main branch
